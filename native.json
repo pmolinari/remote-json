@@ -6,7 +6,7 @@
     "props": {
       "label": "Hola remoto",
       "variant": "secondary",
-      "size": "s1",
+      "size": "s1"
     }
   }
 }
