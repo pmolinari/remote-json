@@ -4,9 +4,9 @@
   "data": {
     "type": "button",
     "props": {
-      "label": "Hola remoto",
-      "variant": "secondary",
-      "size": "s1"
+      "label": "Nuevo boton",
+      "variant": "terciary",
+      "size": "s2"
     }
   }
 }
